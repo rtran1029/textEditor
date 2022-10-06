@@ -1,4 +1,5 @@
 # textEditor
+This is just another text editor. try installing it and using it locally.
 
 ---
 
@@ -41,8 +42,11 @@ Contact me: <br/>
 [GitHub](https://github.com/rtran1029)
 <richardtran1029@gmail.com>
 
-## Demo Video Links
+## DEMO Link
 
-https://watch.screencastify.com/v/uFfARKQoMIcbyqXpEEMh
+https://texteditorgtbootcamp.herokuapp.com
 
-https://drive.google.com/file/d/1H9SWolz75ESQzbyhj57K-HerYnfws0pf/view
+
+## Github REPO
+
+https://github.com/rtran1029/textEditor
